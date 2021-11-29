@@ -23,7 +23,7 @@ Table
 }
 
 .wrapper {
-  display: grid;
+  display:  flexbox;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 100px 100px;
   grid-gap: 100px 100px;
