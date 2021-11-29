@@ -24,7 +24,7 @@ Table
 
 .wrapper {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 100px 100px;
   grid-template-rows: 100px 100px;
   grid-gap: 10px;
 text-align: center;
@@ -42,6 +42,6 @@ font-family: 'Press Start 2P', cursive;
 }
 
 .keyboards {
-  grid-row: 4;
+  grid-row: 2;
   grid-column: 3;
 }
