@@ -42,6 +42,6 @@ font-family: 'Press Start 2P', cursive;
 }
 
 .keyboards {
-  grid-row: 2;
+  grid-row: 4;
   grid-column: 3;
 }
