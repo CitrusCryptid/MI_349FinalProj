@@ -21,7 +21,7 @@ h1 {
 }
 
 .home{ 
-  background-color: indianred;
+  background-color: rgb(69, 122, 47);
   transition: transform 250ms, opacity 400ms;
 }
 
