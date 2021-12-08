@@ -16,12 +16,8 @@ h1 {
   color: red;
 }
 
-.Navigator {
-  display: flex;
-  background-color: indianred;
-}
-
 .home{
+  background-color: indianred;
   transition: transform 250ms, opacity 400ms;
 }
 
