@@ -16,11 +16,9 @@ h1 {
   color: red;
 }
 
-.h4 {
-  color:indianred;
-  transition: transform 250ms, opacity 400ms;
-}
-.h4:hover{
+
+
+.home:hover{
   transform: translateX(-10px);
 }
 
