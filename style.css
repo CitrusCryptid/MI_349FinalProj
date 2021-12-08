@@ -17,6 +17,7 @@ h1 {
 }
 
 .h4 {
+  color:indianred;
   transition: transform 250ms, opacity 400ms;
 }
 .h4:hover{
