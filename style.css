@@ -29,6 +29,11 @@ Table
   grid-gap: 100px 100px;
   text-align: center;
   font-family: 'Press Start 2P', cursive;
+  transition: transform 250ms;
+}
+
+.wrapper:hover {
+  transform: translateY(-10px);
 }
 
 .Mice {
