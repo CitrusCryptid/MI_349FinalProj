@@ -16,7 +16,14 @@ h1 {
   color: red;
 }
 
+.Navigator {
+  display: flex;
+  background-color: indianred;
+}
 
+.home{
+  transition: transform 250ms, opacity 400ms;
+}
 
 .home:hover{
   transform: translateX(-10px);
