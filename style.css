@@ -16,13 +16,15 @@ h1 {
   color: red;
 }
 
+
 .home{
+  display: flex;
   background-color: indianred;
   transition: transform 250ms, opacity 400ms;
 }
 
 .home:hover{
-  transform: translateX(-10px);
+  transform: translateX(10px);
 }
 
 .wrapper {
